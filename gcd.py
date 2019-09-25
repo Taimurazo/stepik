@@ -19,6 +19,5 @@ def gcd_while(a, b):
 
 
 if __name__ == '__main__':
-    # print(gcd_while(14159572, 63967072))
     assert gcd_while(14159572, 63967072) == 4
     assert gcd(35, 18) == 1
